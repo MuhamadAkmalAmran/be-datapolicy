@@ -1,0 +1,18 @@
+Flow Fitur
+
+Input file
+
+Proses Data Table
+
+Proses Pemilihan Data table yang mau di pakai
+
+Opsi save all data dan data pilihan ke db
+
+Judul Dan Data table
+
+Noted :
+Bagaimana cara menggabungkan data dari file pdf dan scraping web
+
+
+
+

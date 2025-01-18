@@ -1,0 +1,33 @@
+API BPS
+
+Kota Yogyakarta
+domain : 3400
+var: 134
+vervar : 3471
+th: 120:124
+
+Kota Surabaya
+domain:3510
+var:173
+vervar:37
+th:120:124
+
+Kab. Kulon Progo
+domain: 3400
+var: 134
+vervar: 3401
+th: 120:124
+datacontent: vervar/var/turvar/tahun/turtahun
+
+Kab. Banyuwangi
+domain: 3510
+var: 173
+vervar:10
+th: 120:124
+
+Kota Bandung
+domain : 3273
+var: 104
+vervar: 2
+th: 120:124
+datacontent : vervar/var/turvar/tahun/turtahun
