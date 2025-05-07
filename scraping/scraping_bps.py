@@ -1,7 +1,7 @@
 import requests
 
 def fetch_data(vervar, var, th):
-    url = f"https://webapi.bps.go.id/v1/api/list/model/data/lang/ind/domain/0000/var/{var}/vervar/{vervar}/th/{th}/key/020c95b2c238d613941e86cc42d5e6dd/"
+    url = f"https://webapi.bps.go.id/v1/api/list/model/data/lang/ind/domain/0000/var/{var}/vervar/{vervar}/th/{th}/key/020c95b2c238d613941e86cc42d5e6dd"
     """Mengambil data dari API dan mengembalikan data yang sudah diolah."""
     response = requests.get(url)
     if response.status_code != 200:
