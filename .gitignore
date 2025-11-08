@@ -9,4 +9,4 @@ seeds/__pycache__/
 files/*
 
 # Tapi tetap simpan file .gitkeep
-!uploads/.gitkeep
+!files/.gitkeep
