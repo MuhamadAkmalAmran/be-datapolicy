@@ -1,6 +1,6 @@
 .venv
 __pycache__/
-migrations/
+# migrations/
 .vscode/
 .env
 seeds/__pycache__/
