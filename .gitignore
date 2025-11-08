@@ -7,3 +7,6 @@ seeds/__pycache__/
 
 # Abaikan semua isi folder uploads
 files/*
+
+# Tapi tetap simpan file .gitkeep
+!uploads/.gitkeep
