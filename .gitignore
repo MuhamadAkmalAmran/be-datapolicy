@@ -4,3 +4,6 @@ __pycache__/
 .vscode/
 .env
 seeds/__pycache__/
+
+# Abaikan semua isi folder uploads
+files/*
