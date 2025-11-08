@@ -1,3 +1,6 @@
-.vercel
-
+.venv
+__pycache__/
+migrations/
+.vscode/
 .env
+seeds/__pycache__/

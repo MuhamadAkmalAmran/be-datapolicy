@@ -115,7 +115,7 @@ def get_jumlah_angkatan_bekerja(var, tahun, vervar_label):
 #     return result_data
 
 # Contoh penggunaan
-data = get_jumlah_angkatan_bekerja(var="368", tahun="121", vervar_label="Sleman")
+# data = get_jumlah_angkatan_bekerja(var="368", tahun="121", vervar_label="Sleman")
 
-if data:
-    print(data)
+# if data:
+#     print(data)
